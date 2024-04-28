@@ -50,7 +50,7 @@ flutter run
 
 ## Screenshots
 
-![image](https://github.com/AkashCodz/Flutter-HeartDiseasePredictionSystem/assets/101062599/83aa6c08-235c-41c7-a921-8cbe40f34c1d)
+![image](https://github.com/AkashCodz/Flutter-HeartDiseasePredictionSystem/assets/101062599/f54c6962-2ec7-4a6f-85ea-28dc787caca6)
 
 ![image](https://github.com/AkashCodz/Flutter-HeartDiseasePredictionSystem/assets/101062599/b1e59438-ffd9-4621-b17a-d04bcff4e919)
 
